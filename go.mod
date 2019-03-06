@@ -1,4 +1,4 @@
-module github.com/segmentio/stats
+module github.com/InVisionApp/stats
 
 require (
 	github.com/google/go-cmp v0.2.0 // indirect
